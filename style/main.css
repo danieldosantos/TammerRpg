@@ -59,6 +59,14 @@ header nav a:hover{
 }
 
 
+.flex-container{
+    display: flex;
+    max-width: 992px;
+    margin: auto;
+    width: 100%;
+    min-width: 320px;
+    
+}
 .filme-principal {
     margin-top: 10px;
     margin-bottom: 40px;
